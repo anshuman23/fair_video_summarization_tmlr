@@ -1,0 +1,6 @@
+data/splits/fvs_splits.json, 0, 0.6613551421287026, 29
+data/splits/fvs_splits.json, 1, 0.6053123658986724, 58
+data/splits/fvs_splits.json, 2, 0.6092800744161561, 44
+data/splits/fvs_splits.json, 3, 0.6995080327578539, 57
+data/splits/fvs_splits.json, 4, 0.6298978301507067, 94
+data/splits/fvs_splits.json, avg, 0.6410706890704183

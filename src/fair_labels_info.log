@@ -1,0 +1,272 @@
+ ==== VIDEO 1 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (3693, 2)
+eth : 2 => {'WH': 0, 'AS': 1}
+eth shape: (3693, 2)
+ind : 8 => {'WH_F_1': 0, 'WH_M_1': 1, 'WH_F_2': 2, 'WH_M_2 ': 3, 'WH_M_3': 4, 'SA_M_1': 5, 'WH_M_2': 6, 'WH_M_4': 7}
+ind shape: (3693, 8)
+
+ ==== VIDEO 2 ====
+sex : 1 => {'M': 0}
+sex shape: (1135, 1)
+eth : 1 => {'BL': 0}
+eth shape: (1135, 1)
+ind : 4 => {'BL_M_1': 0, 'BL_M_3': 1, 'BL_M_4': 2, 'BL_M_2': 3}
+ind shape: (1135, 4)
+
+ ==== VIDEO 3 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (1431, 2)
+eth : 2 => {'AS': 0, 'WH': 1}
+eth shape: (1431, 2)
+ind : 4 => {'SA_F_1': 0, 'WH_M_1': 1, 'WH_M_2': 2, 'WH_M_3': 3}
+ind shape: (1431, 4)
+
+ ==== VIDEO 4 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (2767, 2)
+eth : 1 => {'WH': 0}
+eth shape: (2767, 1)
+ind : 4 => {'WH_M_1': 0, 'WH_F_1': 1, 'WH_M_2': 2, 'WH_M_3': 3}
+ind shape: (2767, 4)
+
+ ==== VIDEO 5 ====
+sex : 1 => {'M': 0}
+sex shape: (5350, 1)
+eth : 1 => {'WH': 0}
+eth shape: (5350, 1)
+ind : 2 => {'WH_M_1': 0, 'WH_M_2': 1}
+ind shape: (5350, 2)
+
+ ==== VIDEO 6 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (11870, 2)
+eth : 2 => {'WH': 0, 'BL': 1}
+eth shape: (11870, 2)
+ind : 4 => {'WH_F_1': 0, 'WH_M_1': 1, 'BL_M_1': 2, 'WH_M_2': 3}
+ind shape: (11870, 4)
+
+ ==== VIDEO 7 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (4079, 2)
+eth : 1 => {'BL': 0}
+eth shape: (4079, 1)
+ind : 5 => {'BL_F_1': 0, 'BL_F_2': 1, 'BL_M_1': 2, 'BL_F_3': 3, 'BL_F_4': 4}
+ind shape: (4079, 5)
+
+ ==== VIDEO 8 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (13429, 2)
+eth : 3 => {'BL': 0, 'WH': 1, 'LA': 2}
+eth shape: (13429, 3)
+ind : 4 => {'BL_F_1': 0, 'WH_M_1': 1, 'LA_M_1': 2, 'WH_M_2': 3}
+ind shape: (13429, 4)
+
+ ==== VIDEO 9 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (3216, 2)
+eth : 2 => {'BL': 0, 'AS': 1}
+eth shape: (3216, 2)
+ind : 2 => {'BL_F_1': 0, 'SE_M_1': 1}
+ind shape: (3216, 2)
+
+ ==== VIDEO 10 ====
+sex : 1 => {'M': 0}
+sex shape: (2359, 1)
+eth : 1 => {'WH': 0}
+eth shape: (2359, 1)
+ind : 2 => {'WH_M_2': 0, 'WH_M_1': 1}
+ind shape: (2359, 2)
+
+ ==== VIDEO 11 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (3536, 2)
+eth : 1 => {'WH': 0}
+eth shape: (3536, 1)
+ind : 4 => {'WH_M_1': 0, 'WH_M_2': 1, 'WH_M_3': 2, 'WH_F_1': 3}
+ind shape: (3536, 4)
+
+ ==== VIDEO 12 ====
+sex : 1 => {'F': 0}
+sex shape: (2522, 1)
+eth : 1 => {'WH': 0}
+eth shape: (2522, 1)
+ind : 2 => {'WH_F_1': 0, 'WH_F_2': 1}
+ind shape: (2522, 2)
+
+ ==== VIDEO 13 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (3615, 2)
+eth : 1 => {'WH': 0}
+eth shape: (3615, 1)
+ind : 2 => {'WH_M_1': 0, 'WH_F_1': 1}
+ind shape: (3615, 2)
+
+ ==== VIDEO 14 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (4685, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4685, 1)
+ind : 3 => {'WH_F_2': 0, 'WH_F_1': 1, 'WH_M_1': 2}
+ind shape: (4685, 3)
+
+ ==== VIDEO 15 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (5023, 2)
+eth : 2 => {'WH': 0, 'BL': 1}
+eth shape: (5023, 2)
+ind : 5 => {'WH_M_1': 0, 'WH_F_1': 1, 'WH_F_2': 2, 'BL_F_1': 3, 'WH_M_2': 4}
+ind shape: (5023, 5)
+
+ ==== VIDEO 16 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (3476, 2)
+eth : 2 => {'WH': 0, 'AS': 1}
+eth shape: (3476, 2)
+ind : 2 => {'WH_M_1': 0, 'SA_F_1': 1}
+ind shape: (3476, 2)
+
+ ==== VIDEO 17 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (4202, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4202, 1)
+ind : 3 => {'WH_M_1': 0, 'WH_F_1': 1, 'WH_M_2': 2}
+ind shape: (4202, 3)
+
+ ==== VIDEO 18 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (3413, 2)
+eth : 2 => {'WH': 0, 'AS': 1}
+eth shape: (3413, 2)
+ind : 3 => {'SA_M_1': 0, 'WH_F_1': 1, 'WH_F_2': 2}
+ind shape: (3413, 3)
+
+ ==== VIDEO 19 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (3482, 2)
+eth : 1 => {'WH': 0}
+eth shape: (3482, 1)
+ind : 3 => {'WH_F_1': 0, 'WH_M_1': 1, 'WH_F_2': 2}
+ind shape: (3482, 3)
+
+ ==== VIDEO 20 ====
+sex : 1 => {'F': 0}
+sex shape: (2593, 1)
+eth : 2 => {'WH': 0, 'BL': 1}
+eth shape: (2593, 2)
+ind : 3 => {'WH_F_1': 0, 'BL_F_1': 1, 'WH_F_2': 2}
+ind shape: (2593, 3)
+
+ ==== VIDEO 21 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (4102, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4102, 1)
+ind : 5 => {'WH_M_2': 0, 'WH_F_1': 1, 'WH_F_3': 2, 'WH_M_1': 3, 'WH_F_2': 4}
+ind shape: (4102, 5)
+
+ ==== VIDEO 22 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (6485, 2)
+eth : 2 => {'WH': 0, 'ME': 1}
+eth shape: (6485, 2)
+ind : 2 => {'WH_F_1': 0, 'ME_M_1': 1}
+ind shape: (6485, 2)
+
+ ==== VIDEO 23 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (4853, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4853, 1)
+ind : 3 => {'WH_F_1': 0, 'WH_M_1': 1, 'WH_M_2': 2}
+ind shape: (4853, 3)
+
+ ==== VIDEO 24 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (4005, 2)
+eth : 2 => {'WH': 0, 'AS': 1}
+eth shape: (4005, 2)
+ind : 7 => {'WH_M_1': 0, 'WH_M_2': 1, 'WH_F_1': 2, 'WH_F_2': 3, 'WH_F_3': 4, 'AS_F_1': 5, 'WH_M_3': 6}
+ind shape: (4005, 7)
+
+ ==== VIDEO 25 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (3995, 2)
+eth : 1 => {'AS': 0}
+eth shape: (3995, 1)
+ind : 6 => {'AS_F_1': 0, 'AS_F_2': 1, 'AS_M_1': 2, 'AS_M_2': 3, 'AS_M_3': 4, 'AS_M_4': 5}
+ind shape: (3995, 6)
+
+ ==== VIDEO 26 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (4931, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4931, 1)
+ind : 2 => {'WH_F_1': 0, 'WH_M_1': 1}
+ind shape: (4931, 2)
+
+ ==== VIDEO 27 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (2500, 2)
+eth : 1 => {'WH': 0}
+eth shape: (2500, 1)
+ind : 3 => {'WH_F_1': 0, 'WH_M_1': 1, 'WH_M_2': 2}
+ind shape: (2500, 3)
+
+ ==== VIDEO 28 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (5971, 2)
+eth : 2 => {'BL': 0, 'WH': 1}
+eth shape: (5971, 2)
+ind : 4 => {'BL_M_1': 0, 'WH_F_1': 1, 'WH_M_1': 2, 'WH_M_2': 3}
+ind shape: (5971, 4)
+
+ ==== VIDEO 29 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (4304, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4304, 1)
+ind : 2 => {'WH_F_1': 0, 'WH_M_1': 1}
+ind shape: (4304, 2)
+
+ ==== VIDEO 30 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (4166, 2)
+eth : 1 => {'WH': 0}
+eth shape: (4166, 1)
+ind : 6 => {'WH_F_1': 0, 'WH_F_2': 1, 'WH_M_1': 2, 'WH_F_3': 3, 'WH_M_2': 4, 'WH_M_3': 5}
+ind shape: (4166, 6)
+
+ ==== VIDEO 31 ====
+sex : 1 => {'M': 0}
+sex shape: (4468, 1)
+eth : 1 => {'WH': 0}
+eth shape: (4468, 1)
+ind : 2 => {'WH_M_1': 0, 'WH_M_2': 1}
+ind shape: (4468, 2)
+
+ ==== VIDEO 32 ====
+sex : 1 => {'M': 0}
+sex shape: (6241, 1)
+eth : 1 => {'WH': 0}
+eth shape: (6241, 1)
+ind : 2 => {'WH_M_1': 0, 'WH_M_2': 1}
+ind shape: (6241, 2)
+
+ ==== VIDEO 33 ====
+sex : 2 => {'F': 0, 'M': 1}
+sex shape: (10917, 2)
+eth : 3 => {'BL': 0, 'WH': 1, 'AS': 2}
+eth shape: (10917, 3)
+ind : 18 => {'BL_F_3': 0, 'BL_F_1': 1, 'WH_F_1': 2, 'WH_F_2': 3, 'WH_F_3': 4, 'WH_F_4': 5, 'WH_F_5': 6, 'WH_M_1': 7, 'WH_F_6': 8, 'WH_M_6': 9, 'WH_F_7': 10, 'WH_F_8': 11, 'AS_F_1': 12, 'BL_F_2': 13, 'WH_F_9': 14, 'WH_F_10': 15, 'WH_F_11': 16, 'WH_F_12': 17}
+ind shape: (10917, 18)
+
+ ==== VIDEO 34 ====
+sex : 2 => {'M': 0, 'F': 1}
+sex shape: (15307, 2)
+eth : 1 => {'AS': 0}
+eth shape: (15307, 1)
+ind : 5 => {'AS_M_1': 0, 'AS_M_2': 1, 'AS_F_1': 2, 'AS_F_2': 3, 'AS_M_3': 4}
+ind shape: (15307, 5)
+
