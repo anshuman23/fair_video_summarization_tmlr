@@ -1,4 +1,5 @@
 # Towards Fair Video Summarization
+### Accepted to TMLR 2023 
 
 ## Table of Contents
 - [Environment Setup](#environment-setup)
